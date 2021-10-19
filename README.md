@@ -9,3 +9,5 @@ Here is the course content...
 * The difference between `ls` and `ls -l`.
 * Executables and `chmod`.
 * dot files.
+* Wow!
+*
