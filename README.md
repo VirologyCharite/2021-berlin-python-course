@@ -10,4 +10,6 @@ Here is the course content...
 * Executables and `chmod`.
 * dot files.
 * Wow!
-*
+* iPython
+* functions
+
