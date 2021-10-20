@@ -6,18 +6,20 @@ Welcome to the 2021 Berlin Python course!
 
 ### Shell
 
-* Shell scripts
 * `.` and `..`.
 * `cd .`, `cd ..`, and `cd -`.
 * The difference between `ls` and `ls -l`.
 * Executables and `chmod`.
 * dot files.
-* Github and ssh keys
+* Command line editing, Alt-. Alt-t (transposing), Control-r (searching), etc
+* /tmp
+* Shell scripts
 * Shell start-up files (put . in PATH)
-* Command line editing and M-. etc
+* Github and ssh keys
 
 ### Python
 
 * argparse
 * iPython
 * <s>Python functions</s>
+* opening files to read & write

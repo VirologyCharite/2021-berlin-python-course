@@ -9,3 +9,7 @@ Make some changes to the `sequence-match.py` program:
 * Make the program ignore case.
 * Write a new program that reads one sequence from standard input and then allows the user to enter a series of patterns.
 * Give an error if the sequence or the pattern is empty.
+
+SSH key setup for GitHub
+
+* Follow the instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
