@@ -1,4 +1,4 @@
-# 2021-berlin-python-course
+# 2021 Berlin Python course
 
 Here is the course content...
 
@@ -9,7 +9,8 @@ Here is the course content...
 * The difference between `ls` and `ls -l`.
 * Executables and `chmod`.
 * dot files.
-* Wow!
+* Github and ssh keys
 * iPython
-* functions
-
+* Python functions
+* Shell start-up files (put . in PATH)
+* Command line editing and M-. etc
