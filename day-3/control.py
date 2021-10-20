@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+from time import sleep
+
 command = 'whatever'
 
 # while command != 'quit':
@@ -13,4 +15,9 @@ while True:
     command = input('what is your command? ')
     if command == 'quit':
         break
-    print('You said', command)
+    elif command == 'sleep':
+        sleep(3)
+    elif command == 'eat':
+        print('yum')
+    else:
+        print('You said', command)
