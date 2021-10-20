@@ -7,5 +7,11 @@ def sequenceMatch(sequence, pattern):
         print('no')
 
 
-sequenceMatch('ACGGTCAAAC', 'AAA')
-sequenceMatch('ACGGTCAAAC', 'XXX')
+while True:
+    sequence = input('Enter a sequence: ')
+    if sequence == 'quit':
+        break
+
+    pattern = input('Enter a pattern: ')
+
+    sequenceMatch(sequence, pattern)
