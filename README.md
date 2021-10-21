@@ -17,9 +17,13 @@ Welcome to the 2021 Berlin Python course!
 * Shell start-up files (put . in PATH)
 * Github and ssh keys
 
+* ssh to the cluster
+* Online notebooks
+
 ### Python
 
 * argparse
 * iPython
 * <s>Python functions</s>
 * opening files to read & write
+* Jupyter notebooks
