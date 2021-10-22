@@ -14,9 +14,8 @@ Welcome to the 2021 Berlin Python course!
 * Command line editing, Alt-. Alt-t (transposing), Control-r (searching), etc
 * /tmp
 * Shell scripts
-* Shell start-up files (put . in PATH)
+* Shell start-up files (put `.` in PATH)
 * Github and ssh keys
-
 * ssh to the cluster
 * Online notebooks
 
